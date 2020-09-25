@@ -1,2 +1,2 @@
 # Numpy
-baiscs for machine learning &amp; data analytics
+basics for machine learning &amp; data analytics
